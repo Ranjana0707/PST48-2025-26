@@ -1,0 +1,10 @@
+package JAVA;
+
+public class InttoChar {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
